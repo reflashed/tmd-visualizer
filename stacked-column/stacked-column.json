@@ -1,0 +1,46 @@
+{
+  "gram_stain": {
+    "gram_positive": 0.6809738,
+    "gram_negative": 0.18874,
+    "unknown": 0.1302862
+  },
+  "microbiome_location": {
+    "human": 0.6809738,
+    "non_human": 0.18874,
+    "unknown": 0.1302862
+  },
+  "antimicrobial_susceptibility": {
+    "known_abx": 0.6809738,
+    "unknown": 0.3190262
+  },
+  "optimal_temperature": {
+    "37c": 0.6809738,
+    "unknown": 0.3190262
+  },
+  "extreme_environment": {
+    "mesophile": 0.6809738,
+    "unknown": 0.3190262
+  },
+  "biofilm_forming": {
+    "yes": 0.6809738,
+    "unknown": 0.3190262
+  },
+  "optimal_ph": {
+    "unknown": 1
+  },
+  "animal_pathogen": {
+    "unknown": 1
+  },
+  "spore_forming": {
+    "no": 0.8697138,
+    "unknown": 0.1302862
+  },
+  "pathogenicity": {
+    "cogem_2": 0.6809738,
+    "unknown": 0.3190262
+  },
+  "plant_pathogen": {
+    "no": 0.6809738,
+    "unknown": 0.3190262
+  }
+}
