@@ -64,7 +64,7 @@ function makeChart(data) {
       text: 'TMD Stacked Column'
     },
     subtitle: {
-      text: '(full database)'
+      text: '(Danko\'s sample output)'
     },
     xAxis: {
       categories: columnsFormatted
